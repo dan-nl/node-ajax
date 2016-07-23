@@ -1,6 +1,6 @@
 {
   "name": "node-ajax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "a simple front-end ajax module",
   "license": "MIT",
   "author": "dan entous",
