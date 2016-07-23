@@ -1,0 +1,21 @@
+{
+  "name": "node-ajax",
+  "version": "0.0.0",
+  "description": "a simple front-end ajax module",
+  "license": "MIT",
+  "author": "dan entous",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dan-nl/node-ajax.git"
+  },
+  "scripts": {
+    "jshint": "jshint ."
+  },
+  "dependencies": {
+    "bluebird": "^3.4.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.9.2"
+  }
+}
